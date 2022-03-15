@@ -1,8 +1,8 @@
+import CreateBudget from "./pages/CreateBudget";
+
 function App() {
   return (
-    <div>
-      
-    </div>
+    <CreateBudget />
   );
 }
 
